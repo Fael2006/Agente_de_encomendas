@@ -1,0 +1,99 @@
+================================================================================
+
+POLÍTICA INTERNA E REGULAMENTO OPERACIONAL - XPTO LOGÍSTICA EXPRESS
+
+Versão: 2.4 | Atualizado em: 15 de Janeiro de 2025
+
+================================================================================
+
+
+
+1. INTRODUÇÃO E OBJETIVO
+
+A XPTO Logística Express tem como missão oferecer entregas ágeis, seguras e com alto padrão de atendimento ao cliente. Este regulamento estabelece as normas corporativas, diretrizes operacionais de transporte, código de conduta e benefícios destinados a todos os entregadores, operadores de triagem e colaboradores administrativos.
+
+
+
+--------------------------------------------------------------------------------
+
+2. JORNADA DE TRABALHO, ESCALAS E FÉRIAS
+
+2.1. A jornada contratual padrão para operadores logísticos e motoristas CLT é de 44 horas semanais, organizadas em escala 6x1 ou 5x2, com intervalo mínimo de 1 hora para alimentação e descanso intrajornada.
+
+2.2. O banco de horas possui compensação máxima em até 90 dias corridos; horas extras não compensadas dentro do prazo serão quitadas na folha seguinte com acréscimo de 50% em dias úteis e 100% aos domingos e feriados.
+
+2.3. Todo colaborador sob regime CLT adquire o direito a 30 dias de férias após 12 meses de vínculo ininterrupto. O agendamento deve ser formalizado junto à coordenação com antecedência mínima de 45 dias, sendo permitida a divisão do período em até três frações, desde que uma delas não seja inferior a 14 dias corridos.
+
+
+
+--------------------------------------------------------------------------------
+
+3. PROTOCOLOS OPERACIONAIS DE ENTREGA E TENTATIVAS
+
+3.1. Horário padrão de entregas: Segunda a sábado, das 07h00 às 20h00. Entregas após as 20h00 só são autorizadas mediante solicitação expressa do cliente via modalidade "XPTO Noturna Agendada".
+
+3.2. Tentativas de entrega: Para cada encomenda são realizadas até 3 (três) tentativas em dias úteis subsequentes. Se o destinatário estiver ausente em todas as tentativas, a mercadoria retorna ao Centro de Distribuição (CD) regional, permanecendo retida por 7 dias corridos antes da devolução definitiva ao remetente.
+
+3.3. Confirmação e comprovação: O entregador deve obrigatoriamente coletar nome completo legível, número do documento de identidade (RG ou CPF) e assinatura digital do recebedor no aplicativo corporativo da XPTO. No caso de entregas em portarias de condomínios comerciais ou residenciais, é obrigatório registrar o nome do porteiro e o número do crachá funcional.
+
+3.4. Pacotes danificados: Em hipótese alguma o entregador deve forçar a entrega de caixas amassadas, molhadas, violadas ou rasgadas. O item deve ser fotografado pelo app, classificado como "Sinistro em Trânsito" e retornado imediatamente para a esteira de auditoria do CD.
+
+
+
+--------------------------------------------------------------------------------
+
+4. DIRETRIZES DE VEÍCULOS, SEGURANÇA E MANUTENÇÃO
+
+4.1. Veículos da frota própria: Todos os veículos utilitários e vans passam por vistoria preventiva obrigatória a cada 10.000 km ou 6 meses. O motorista responsável deve preencher o checklist diário matinal no aplicativo antes de iniciar a primeira rota (pneus, óleo, freios, luzes e extintor).
+
+4.2. Velocidade máxima permitida: É expressamente proibido ultrapassar o limite de 80 km/h em vias expressas/rodovias e 50 km/h em vias urbanas locais, monitorado via telemetria em tempo real pelo sistema de rastreamento veicular. Três advertências por excesso de velocidade acarretam suspensão de rota de 5 dias.
+
+4.3. Motoboys e entregadores autônomos credenciados: Devem utilizar capacete integral regulamentado pelo Inmetro com faixa refletiva, colete com faixas fluorescentes, bota de proteção cano médio e suporte homologado para baú ou bag. É proibido transportar volumes acima de 25 kg em motocicletas.
+
+
+
+--------------------------------------------------------------------------------
+
+5. POLÍTICA DE CARGAS ESPECIAIS E VALORES
+
+5.1. Cargas de alto valor (eletrônicos, joias e smartphones avaliados acima de R$ 5.000,00 por remessa): O transporte exige tráfego em vans blindadas ou veículos monitorados por isca de rádio e escolta armada homologada.
+
+5.2. Mercadorias perecíveis e medicamentos termolábeis: Devem ser transportados exclusivamente em compartimentos com controle térmico auditável via termógrafo USB calibrado, respeitando a faixa de temperatura indicada na nota fiscal (2°C a 8°C ou 15°C a 25°C).
+
+
+
+--------------------------------------------------------------------------------
+
+6. POLÍTICA DE EXTRAVIO, AVARIAS E REEMBOLSOS
+
+6.1. O prazo máximo para o cliente ou remetente abrir reclamação formal de extravio ou avaria é de até 7 dias corridos após a data prevista de entrega.
+
+6.2. A comissão interna de sinistros tem o prazo de 5 dias úteis para concluir a apuração da ocorrência com base nos dados do GPS, imagens capturadas na tentativa de entrega e telemetria da rota.
+
+6.3. Constatado extravio sem dolo por parte da equipe, a XPTO Logística Express reembolsa o valor integral declarado na nota fiscal da mercadoria em até 10 dias úteis, acrescido de bônus de 10% em créditos de frete para futuras operações.
+
+
+
+--------------------------------------------------------------------------------
+
+7. CONDUTA ÉTICA E PRIVACIDADE DE DADOS (LGPD)
+
+7.1. Todos os dados de clientes (endereço, telefone, CPF, nome) visíveis na etiqueta ou no app são estritamente confidenciais. É proibido tirar fotos de etiquetas para uso em redes sociais, aplicativos de mensagens pessoais ou compartilhamento com terceiros.
+
+7.2. É terminantemente proibido o colaborador contatar o cliente por meios pessoais de mensagens (WhatsApp, Telegram, ligação não oficial) para fins que não sejam estritamente operacionais da entrega em curso.
+
+7.3. O descumprimento de qualquer diretriz de segurança de dados ou assédio a clientes e colegas sujeita o infrator a desligamento imediato por justa causa e responsabilização cível e criminal.
+
+
+
+--------------------------------------------------------------------------------
+
+8. BENEFÍCIOS CORPORATIVOS E SUPORTE AO COLABORADOR
+
+8.1. Vale Alimentação / Refeição (VR/VA): Valor diário de R$ 38,50 pago no cartão corporativo multibenefícios até o último dia útil de cada mês referente ao mês subsequente.
+
+8.2. Seguro de vida em grupo e plano de assistência médica com coparticipação reduzida (disponível a partir do término do período de experiência de 90 dias).
+
+8.3. Bonificação por desempenho (KPI de Entregas): Entregadores que mantiverem índice de sucesso de entrega acima de 98,5% no mês e zero sinistros recebem gratificação de 15% sobre a remuneração base mensal.
+
+================================================================================
